@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/routes/arguments.dart';
+import 'package:flutter_app/routes/returning_data.dart';
 
-void main() => runApp(ArgumentsApp());
+void main() => runApp(ReturningDataApp());
