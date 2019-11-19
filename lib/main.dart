@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/routes/named.dart';
+import 'package:flutter_app/routes/arguments.dart';
 
-void main() => runApp(NamedRoutesApp());
+void main() => runApp(ArgumentsApp());
