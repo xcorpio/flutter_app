@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/routes/passing_data.dart';
+import 'package:flutter_app/blue/app.dart';
 
-void main() => runApp(TodosApp());
+void main() => runApp(FlutterBlueApp());
