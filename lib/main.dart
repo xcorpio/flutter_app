@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/blue/app.dart';
+import 'package:flutter_app/animation/route.dart';
 
-void main() => runApp(FlutterBlueApp());
+void main() => runApp(RouteAnimationApp());
