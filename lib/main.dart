@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/animation/properties.dart';
+import 'package:flutter_app/animation/opacity.dart';
 
-void main() => runApp(AnimatedContainerApp());
+void main() => runApp(OpacityApp());
