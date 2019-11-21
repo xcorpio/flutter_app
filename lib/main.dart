@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/animation/route.dart';
+import 'package:flutter_app/animation/physics.dart';
 
-void main() => runApp(RouteAnimationApp());
+void main() => runApp(PhysicsCardApp());
