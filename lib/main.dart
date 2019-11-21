@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/animation/physics.dart';
+import 'package:flutter_app/animation/properties.dart';
 
-void main() => runApp(PhysicsCardApp());
+void main() => runApp(AnimatedContainerApp());
