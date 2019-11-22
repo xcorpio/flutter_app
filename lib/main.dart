@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/design/drawer.dart';
+import 'package:flutter_app/design/snackbars.dart';
 
-void main() => runApp(DrawerApp());
+void main() => runApp(SnackBarApp());
