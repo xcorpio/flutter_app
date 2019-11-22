@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/design/orientation.dart';
+import 'package:flutter_app/design/tabs.dart';
 
-void main() => runApp(OrientationListApp());
+void main() => runApp(TabBarDemo());
