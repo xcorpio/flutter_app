@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/images/network.dart';
+import 'package:flutter_app/list/floating.dart';
 
-void main() => runApp(NetworkImageApp());
+void main() => runApp(FloatingAppBar());
