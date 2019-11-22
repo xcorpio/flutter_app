@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/design/tabs.dart';
+import 'package:flutter_app/forms/validation.dart';
 
-void main() => runApp(TabBarDemo());
+void main() => runApp(CustomFormApp());
